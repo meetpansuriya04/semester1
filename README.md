@@ -1,1 +1,3 @@
 # semester1
+
+This is my first project and i am exited that time what a miraculous that was...
